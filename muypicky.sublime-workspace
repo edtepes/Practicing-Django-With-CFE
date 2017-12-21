@@ -1,0 +1,780 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"custom",
+				"custom_student_list"
+			],
+			[
+				"distrib",
+				"distribution_list"
+			],
+			[
+				"find_",
+				"find_distribution"
+			],
+			[
+				"hard",
+				"hardest_questions"
+			],
+			[
+				"min",
+				"minimum_val"
+			],
+			[
+				"correct_answers",
+				"correct_answers_list"
+			],
+			[
+				"correct",
+				"correct_answers"
+			],
+			[
+				"correc",
+				"correct_answers_list"
+			],
+			[
+				"key_",
+				"key_answers"
+			],
+			[
+				"cust",
+				"custom_student_answers"
+			],
+			[
+				"co",
+				"calc_correct_ans"
+			],
+			[
+				"custom_st",
+				"custom_student_list"
+			],
+			[
+				"key",
+				"key_values"
+			],
+			[
+				"studen",
+				"student_selector"
+			],
+			[
+				"cus",
+				"custom_student_scores"
+			],
+			[
+				"student_n",
+				"student_names"
+			],
+			[
+				"cuso",
+				"custom_student_list"
+			],
+			[
+				"stu",
+				"student_names"
+			],
+			[
+				"studnet",
+				"student_names"
+			],
+			[
+				"student_",
+				"student_names"
+			],
+			[
+				"stud",
+				"student_score"
+			],
+			[
+				"displa",
+				"displayed_on_output"
+			],
+			[
+				"out",
+				"output_csv"
+			],
+			[
+				"Trace",
+				"TRACE"
+			],
+			[
+				"ans",
+				"answr_set"
+			],
+			[
+				"str",
+				"str_item"
+			],
+			[
+				"st",
+				"student_data"
+			],
+			[
+				"letter",
+				"letter_index"
+			],
+			[
+				"num",
+				"num_list"
+			],
+			[
+				"lett",
+				"letter_index"
+			],
+			[
+				"l_of_",
+				"l_of_res"
+			],
+			[
+				"write",
+				"write_item"
+			],
+			[
+				"temp",
+				"temp_conversion_writer"
+			],
+			[
+				"conver",
+				"converted_file"
+			],
+			[
+				"cels",
+				"cels_to_far"
+			],
+			[
+				"cel",
+				"cels_to_far"
+			],
+			[
+				"af",
+				"after_decimal"
+			],
+			[
+				"total",
+				"total_dol"
+			],
+			[
+				"secre",
+				"secret_code"
+			],
+			[
+				"sec",
+				"secret_code"
+			],
+			[
+				"tot",
+				"total_bc"
+			],
+			[
+				"title",
+				"title_underline"
+			],
+			[
+				"titl",
+				"title_underline"
+			],
+			[
+				"tit",
+				"title_underline"
+			],
+			[
+				"area_",
+				"area_of_cone"
+			],
+			[
+				"winning",
+				"winning_nbr"
+			],
+			[
+				"win",
+				"winning_nbr"
+			],
+			[
+				"tax",
+				"cost_plus_tax"
+			],
+			[
+				"di",
+				"directions_button"
+			],
+			[
+				"sea",
+				"search_Bar"
+			],
+			[
+				"Er",
+				"eraseaddress"
+			],
+			[
+				"shelf",
+				"shelf_file"
+			],
+			[
+				"test",
+				"test_shelve"
+			],
+			[
+				"tes",
+				"test_shelve"
+			],
+			[
+				"set",
+				"setaddress"
+			],
+			[
+				"amazon",
+				"amazon_soup"
+			],
+			[
+				"req",
+				"requestitem"
+			],
+			[
+				"rom",
+				"romeo_and_juliet_file"
+			],
+			[
+				"search",
+				"search_criteria"
+			],
+			[
+				"new",
+				"new_folder_path"
+			],
+			[
+				"old",
+				"old_folder"
+			],
+			[
+				"newfold",
+				"new_folder_name"
+			],
+			[
+				"ol",
+				"old_folder"
+			],
+			[
+				"new_for",
+				"new_folder_question"
+			],
+			[
+				"item",
+				"item_raw_reader"
+			],
+			[
+				"match",
+				"match_obj"
+			],
+			[
+				"list",
+				"list_item"
+			],
+			[
+				"regex",
+				"regex_display"
+			],
+			[
+				"adj",
+				"adjective_replacement"
+			],
+			[
+				"adv",
+				"adverb_count"
+			],
+			[
+				"adjective",
+				"adjective_count"
+			],
+			[
+				"adject",
+				"adjective_count"
+			],
+			[
+				"adje",
+				"adjective_finder"
+			],
+			[
+				"ad",
+				"adjective_finder"
+			],
+			[
+				"red",
+				"read_text"
+			],
+			[
+				"ver",
+				"verb_search"
+			],
+			[
+				"madlib",
+				"madlib_finder"
+			],
+			[
+				"mad",
+				"madlib_finder"
+			],
+			[
+				"mal",
+				"madlib_search"
+			],
+			[
+				"read_text",
+				"read_text2"
+			],
+			[
+				"text",
+				"text_turned_list"
+			],
+			[
+				"read",
+				"read_text"
+			],
+			[
+				"open",
+				"open_text"
+			],
+			[
+				"mcb",
+				"mcb_shelf"
+			],
+			[
+				"answer_",
+				"answer_key_file"
+			],
+			[
+				"sonnet",
+				"sonnet_file"
+			],
+			[
+				"sonn",
+				"sonnet_file"
+			],
+			[
+				"hello_",
+				"hello_content"
+			],
+			[
+				"hello",
+				"hellofile"
+			],
+			[
+				"whites",
+				"whitespace_finder"
+			],
+			[
+				"white",
+				"whitespace_finder"
+			],
+			[
+				"upper",
+				"uppercase_search_matchobj"
+			],
+			[
+				"digi",
+				"digit_matchobj"
+			],
+			[
+				"p",
+				"password_digits"
+			],
+			[
+				"pass",
+				"password_upper_lower"
+			],
+			[
+				"case_",
+				"case_search_matchobj"
+			],
+			[
+				"password",
+				"password_evaluator"
+			],
+			[
+				"le",
+				"length_matchobj"
+			],
+			[
+				"leng",
+				"length_checker"
+			],
+			[
+				"extract",
+				"extracted_email"
+			],
+			[
+				"extra",
+				"extracted_phone"
+			],
+			[
+				"email",
+				"email_regex"
+			],
+			[
+				"phone",
+				"phone_regex"
+			],
+			[
+				"names",
+				"names_list"
+			],
+			[
+				"re",
+				"redacted_names"
+			],
+			[
+				"nam",
+				"name_regex_matches"
+			],
+			[
+				"items",
+				"items_they_bring"
+			],
+			[
+				"tabl",
+				"tableData"
+			],
+			[
+				"table",
+				"tableData"
+			],
+			[
+				"inner",
+				"inner_item"
+			],
+			[
+				"col",
+				"colWidths"
+			],
+			[
+				"in",
+				"inner_items"
+			],
+			[
+				"cop",
+				"copied_list"
+			],
+			[
+				"lis",
+				"list_values"
+			],
+			[
+				"tab",
+				"tableData"
+			],
+			[
+				"con",
+				"converter_list"
+			],
+			[
+				"dra",
+				"dragon_loot"
+			],
+			[
+				"add",
+				"add_to_inventory"
+			],
+			[
+				"a",
+				"a_list"
+			],
+			[
+				"appen",
+				"append_twice_good"
+			],
+			[
+				"age",
+				"my_age"
+			],
+			[
+				"my_",
+				"my_name"
+			],
+			[
+				"do_",
+				"do_twice"
+			],
+			[
+				"prin",
+				"print_twice"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eduardtepes/Desktop/Projects/website1/src/Blog/Settings/base.py",
+		"/Users/eduardtepes/Desktop/Projects/website1/src/Blog/Settings/__init__.py",
+		"/Users/eduardtepes/Desktop/Projects/Blog/myblog/settings.py",
+		"/Users/eduardtepes/Desktop/Projects/Blog/manage.py",
+		"/Library/Frameworks/Python.framework/Versions/3.6/bin/virtualenvwrapper.sh",
+		"/Users/eduardtepes/Desktop/Edi Stuff/CSS stuff/test.py",
+		"/Users/eduardtepes/Desktop/CMPT 120 Final Project/Etepes_CMPT120FinalProj_SAMPLERUN_ALL.txt",
+		"/Users/eduardtepes/Desktop/CMPT 120 Final Project/Etepes_CMPT120_ScantronProj.py",
+		"/Users/eduardtepes/Desktop/CMPT 120 Final Project/Etepes_CMPT120FinalProj_SAMPLERUN_SEL.txt",
+		"/Users/eduardtepes/Desktop/CMPT 120 Final Project/Individual.txt",
+		"/Users/eduardtepes/Desktop/Python Scripts/Ed_Learns_Code.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/test/Etepes_CMPT120_ScantronProj.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/test/Ed_Learns_Code.py",
+		"/Users/eduardtepes/Djangogirls/blog/urls.py",
+		"/Users/eduardtepes/Djangogirls/.gitignore",
+		"/Users/eduardtepes/Desktop/Python Scripts/CMPT 120/cmpt120_assignment1.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/CMPT 120/Assignment 1/Individual",
+		"/Users/eduardtepes/Desktop/Python Scripts/CMPT 120/cmpt120_lab2.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/QuickMap/QuickMap.py",
+		"/Users/eduardtepes/Desktop/MicrosoftCoding/Microsoft.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/CMPT 120/cmpt120_lab1_ex11.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/CMPT 120/cmpt120_lab1_ex10.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/cmpt120.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/link_verif.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/QuickMap/MapLite.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/QuickMap/MapLite.sh",
+		"/Users/eduardtepes/Desktop/Python Scripts/QuickMap/sethome.db",
+		"/Users/eduardtepes/Desktop/Python Scripts/QuickMap/Ed_Learns_Code.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/QuickMap/MapLite.command",
+		"/Users/eduardtepes/Desktop/Python Scripts/Folder Regex Searcher/Build output",
+		"/Users/eduardtepes/Desktop/Python Scripts/QuickMap/sethome.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/feeling_lucky.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/backup_to_zip.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/selective_copy.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/rename_dates.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/Folder Regex Searcher/regexsearch.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/Mad Libs/MadLibs.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/Multiclipboard/mcb.pyw",
+		"/Users/eduardtepes/Desktop/Python Scripts/Multiclipboard/shelftest.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/Random_Quiz_Generator.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/homemade_strip_function.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/phone_and_email.py",
+		"/Users/eduardtepes/Desktop/Python Scripts/password_strength_checker.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/Python-3.6.sublime-build",
+	"project": "muypicky.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Python Scripts/Ed_Column_Printing.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
